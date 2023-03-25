@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question name='one' id="1">
+        <text>What kind of animal is the mascot of the museum?</text>
+        <answer> Dinosaur </answer>
+        <choice> Bunny </choice>
+    </question>
+    <question name = 'two' id="2">
+        <text>What is the name of the museum where you can learn about history?</text>
+        <answer> History Museum </answer>
+        <choice> Art Museum </choice>
+    </question>
+    <question name = 'three' id="3">
+        <text>What do you call a room in the museum where you can touch and play with different things?</text>
+        <answer> Hands-on Room </answer>
+        <choice> Quiet Room </choice>
+    </question>
+    <question name = 'four' id="4">
+        <text>What is the name of the museum where you can learn about sea creatures?</text>
+        <answer> Aquarium </answer>
+        <choice> Planetarium </choice>
+    </question>
+    <question name = 'five' id="5">
+        <text>What kind of animal is on display in the Natural History Museum?</text>
+        <answer> Dinosaur </answer>
+        <choice> Elephant </choice>
+    </question>
+    <question name = 'six' id="6">
+        <text>What kind of paintings do you see in the portrait gallery?</text>
+        <answer> Faces </answer>
+        <choice> Trees </choice>
+    </question>
+    <question name = 'seven' id="7">
+        <text>What kind of paintings do you see in the landscape gallery?</text>
+        <answer> Scenery </answer>
+        <choice> People </choice>
+    </question>
+    <question name = 'eight' id="8">
+        <text>What kind of statue has a person on a horse?</text>
+        <answer> Equestrian </answer>
+        <choice> Pedestrian </choice>
+    </question>
+    <question name = 'nine' id="9">
+        <text>What is the name of the museum where you can learn about different cultures around the world?</text>
+        <answer> Cultural Museum </answer>
+        <choice> Science Museum </choice>
+    </question>
+    <question name = 'ten' id="10">
+        <text>What is the name of the museum where you can learn about different types of cars?</text>
+        <answer> Automobile Museum </answer>
+        <choice> Art Museum </choice>
+    </question>
+    <question name = 'eleven' id="11">
+        <text>What kind of animal is a symbol of ancient Egypt?</text>
+        <answer> Cat </answer>
+        <choice> Dog </choice>
+    </question>
+    <question name = 'twelve' id="12">
+        <text>What is the name of the ancient Egyptian bird that was a symbol of rebirth and resurrection?</text>
+        <answer> Phoenix </answer>
+        <choice> Falcon </choice>
+    </question>
+    <question name = 'thirteen' id="13">
+        <text>What color is the Mona Lisa's hair? </text>
+        <answer> dark brown color </answer>
+        <choice> white color </choice>
+    </question>
+    <question name = 'fourteen' id="14">
+        <text>What river runs through Egypt? </text>
+        <answer> Nile </answer>
+        <choice> Giza </choice>
+    </question>
+    <question name = 'fifteen' id="15">
+        <text>What is the name of the famous tomb complex that was built for the pharaoh Khufu?</text>
+        <answer> The Great Pyramid of Giza </answer>
+        <choice> The Eiffel Tower </choice>
+    </question>
+    <question name = 'sixteen' id="16">
+        <text>What is the name of the tall, pointy headdress worn by ancient Egyptian pharaohs?</text>
+        <answer> Crown </answer>
+        <choice> Hat </choice>
+    </question>
+    <question name = 'seventeen' id="17">
+        <text>What is the ancient Egyptian process of preserving bodies called?</text>
+        <answer> Mummification </answer>
+        <choice> Incineration </choice>
+    </question>
+    <question name = 'eighteen' id="18">
+        <text>What is the name of the ancient Egyptian god of the underworld?</text>
+        <answer> Osiris </answer>
+        <choice> Hades </choice>
+    </question>
+    <question name = 'nineteen' id="19">
+        <text>What is the name of the ancient Egyptian queen who was famous for her beauty?</text>
+        <answer> Nefertiti </answer>
+        <choice> Cinderella </choice>
+    </question>
+    <question name = 'twentieth' id="20">
+        <text>What is the name of the famous burial mask of an ancient Egyptian pharaoh?</text>
+        <answer> King Tut's Mask </answer>
+        <choice> Halloween Mask </choice>
+    </question>
+</questions>
